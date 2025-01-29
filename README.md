@@ -30,6 +30,12 @@ This project analyzes **customer support ticket data** to evaluate the potential
 - **Closure rate increase:** From **33% → 67%**.
 - **Time reduction:** AI reduces resolution time by **50%**.
 
+- **📌 References:**  
+- [Glassix AI Study – AI Chatbots Improve Resolution Rates](https://www.glassix.com/article/study-shows-ai-chatbots-enhance-conversions-and-resolve-issues-faster)  
+- [Tidio Report – Customer Satisfaction & AI](https://www.tidio.com/blog/ai-customer-service-statistics/)  
+- [Master of Code AI Report – Cost Savings](https://masterofcode.com/blog/chatbot-statistics)  
+
+
 ### **3. Cost Savings Analysis**
 - Assumed **$5 per human-handled ticket** and **$0.60 per AI-handled ticket**.
 - AI-driven support estimated to save **~$38,940 per month**.
