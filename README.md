@@ -57,7 +57,7 @@ This project analyzes **customer support ticket data** to evaluate the potential
 ## **How to Run the Analysis**
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/AI-Support-Ticket-Analysis.git
+   git clone https://github.com/katiesuder/AI-Support-Ticket-Analysis.git
    ```
 2. Install dependencies:
    ```sh
