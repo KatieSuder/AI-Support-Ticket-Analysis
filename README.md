@@ -47,10 +47,9 @@ This project analyzes **customer support ticket data** to evaluate the potential
 ---
 
 ## **Project Files**
-- 📄 `data_analysis_breakdown.md` – **Step-by-step analysis** & code.
-- 📂 `notebooks/` – **Jupyter Notebooks for analysis.**
-- 📊 `visuals/` – **Charts & insights.**
-- 📜 `ai_chatbot_code_documentation.py` – **Python scripts for the project.**
+- 📄 [Data Analysis Breakdown](./data_analysis_breakdown.md) – **Step-by-step analysis & code.**
+- 📊 [Visuals & Charts](./visuals/) – **Graphs & insights.**
+- 📜 [Python Code for Analysis](./ai_chatbot_code.py) – **Data cleaning & projections.**
 
 ---
 
@@ -75,6 +74,20 @@ This project analyzes **customer support ticket data** to evaluate the potential
 | Cost Per Month    | $42,345    | $3,404                 |
 | Cost Savings       | -          | $38,940                |
 | Customer Satisfaction | 2.99    | 3.44                    |
+
+Here are key insights from our analysis:
+
+### **1. Closure Rate Comparison**
+📊 AI chatbots are projected to **double the closure rate** from 33% to 67%.
+![Closure Rate](./visuals/closure_rate_comparison.png)
+
+### **2. Impact of AI on Resolution Time**
+⏳ AI is expected to **cut resolution time in half**.
+![Resolution Time](./visuals/resolution_time_comparison.png)
+
+### **3. Estimated Cost Savings**
+💰 AI-driven support could save **~$38,940 per month**.
+![Cost Savings](./visuals/cost_savings_comparison.png)
 
 ---
 
